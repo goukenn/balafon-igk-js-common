@@ -1,0 +1,24 @@
+<?php
+// @author: C.A.D. BONDJE DOUE
+// @file: /Volumes/Data/wwwroot/core/Packages/Modules/igk/js/common/.module.pinc.php
+// @date: 20211012 11:07:11
+namespace igk\js\common;
+
+
+// + module definition
+return [
+//------------------------------------------------
+// define entry name space
+//
+"entry_NS"=>"igk\js\common",
+
+//------------------------------------------------
+// version
+//
+"version"=>"1.0",
+
+//-------------------------------------------------
+// author
+//
+"author"=>"C.A.D. BONDJE DOUE"
+];
